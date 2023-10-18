@@ -450,7 +450,7 @@ def bd():
                         limit = 5000
                 for nmbr in range(limit):
                         nmp = ''.join(random.choice(string.digits) for _ in range(8))
-                        user.append(nmp)ññj 
+                        user.append(nmp)
                 with tred(max_workers=30) as Aking:     
                         clear()
                         tl = str(len(user))
