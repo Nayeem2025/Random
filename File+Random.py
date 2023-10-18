@@ -273,7 +273,7 @@ def menu():
                 clear()
                 if 1==1:
                         clear()
-                        print(' [1] File cloning\n [2] Create file\n [3] Public cloning\n [4] Random cloning\n [5] gmail cloning\n [6] WhatsApp Group join\n [7] Send feedback\n [8] How To Use Nayeem tool\n [0] Exit prograam')
+                        print(' [1] File cloning\n [2] Create file\n [3] Public cloning\n [4] Random cloning\n [5] gmail cloning\n [0] Exit prograam')
                         linex()
                         xd=input(' Choose an option: ')
                         if xd in ['1','01']:
